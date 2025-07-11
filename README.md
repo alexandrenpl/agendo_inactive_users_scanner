@@ -3,6 +3,8 @@
 This Python application identifies users who haven't used specific lab equipment in the past X months, based on a CSV report from the Agendo booking system 'Last user activity'. It features a simple and interactive graphical interface, allowing quick analysis, editing of filters, and visualisation of results. There is also an executable in dist directory.
 
 The input file should be a report named **Last user activity**, exported from Agendo.
+You can download the executable in this google drive shared folder [exec file on Google Drive](https://drive.google.com/file/d/12GxP_qGyJuQ497ofHvPaqeEsazgZYogW/view?usp=drive_link).
+
 
 ## ⚙️ Features
 
